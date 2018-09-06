@@ -1,2 +1,2 @@
 # CSC108
-Coursework
+Computer Programming Coursework
