@@ -27,9 +27,6 @@ def is_number(value: str) -> bool:
     return value.strip().lstrip('-+').replace('.', '', 1).isnumeric()
 
 
-# It isn't necessary to call this function to implement your bikes.py
-# functions, but you can use it to create larger lists for testing.
-# See the main block below for an example of how to do that.
 def csv_to_list(csv_file: TextIO) -> List[List[str]]:
     """Read and return the contents of the open CSV file csv_file as a list of
     lists, where each inner list contains the values from one line of csv_file.
