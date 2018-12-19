@@ -1,7 +1,5 @@
 """Friend Finder - Main Program code """
 
-#
-
 from typing import List
 from network_functions import load_profiles, make_recommendations
 
