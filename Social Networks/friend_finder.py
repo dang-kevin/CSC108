@@ -1,5 +1,4 @@
-""" CSC108 Assignment 3: Friend Finder - Main Program code """
-# File given to me by the University of Toronto Department of Computer Science
+"""Friend Finder - Main Program code """
 
 from typing import List
 from network_functions import load_profiles, make_recommendations

@@ -1,7 +1,5 @@
 """Phrase Puzzler main program"""
 
-# File given to me by the University of Toronto Department of Computer Science.
-
 import random
 from typing import Tuple
 from puzzler_functions import DATA_FILE, PLAYER_ONE, PLAYER_TWO, CONSONANT, \
